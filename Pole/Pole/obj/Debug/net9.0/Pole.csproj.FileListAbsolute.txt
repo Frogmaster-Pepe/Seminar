@@ -1,0 +1,15 @@
+C:\Users\rotsc\C_sharp\Seminar\Pole\Pole\bin\Debug\net9.0\Pole.exe
+C:\Users\rotsc\C_sharp\Seminar\Pole\Pole\bin\Debug\net9.0\Pole.deps.json
+C:\Users\rotsc\C_sharp\Seminar\Pole\Pole\bin\Debug\net9.0\Pole.runtimeconfig.json
+C:\Users\rotsc\C_sharp\Seminar\Pole\Pole\bin\Debug\net9.0\Pole.dll
+C:\Users\rotsc\C_sharp\Seminar\Pole\Pole\bin\Debug\net9.0\Pole.pdb
+C:\Users\rotsc\C_sharp\Seminar\Pole\Pole\obj\Debug\net9.0\Pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotsc\C_sharp\Seminar\Pole\Pole\obj\Debug\net9.0\Pole.AssemblyInfoInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\Pole\Pole\obj\Debug\net9.0\Pole.AssemblyInfo.cs
+C:\Users\rotsc\C_sharp\Seminar\Pole\Pole\obj\Debug\net9.0\Pole.csproj.CoreCompileInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\Pole\Pole\obj\Debug\net9.0\Pole.sourcelink.json
+C:\Users\rotsc\C_sharp\Seminar\Pole\Pole\obj\Debug\net9.0\Pole.dll
+C:\Users\rotsc\C_sharp\Seminar\Pole\Pole\obj\Debug\net9.0\refint\Pole.dll
+C:\Users\rotsc\C_sharp\Seminar\Pole\Pole\obj\Debug\net9.0\Pole.pdb
+C:\Users\rotsc\C_sharp\Seminar\Pole\Pole\obj\Debug\net9.0\Pole.genruntimeconfig.cache
+C:\Users\rotsc\C_sharp\Seminar\Pole\Pole\obj\Debug\net9.0\ref\Pole.dll
