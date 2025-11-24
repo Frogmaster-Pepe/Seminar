@@ -1,0 +1,15 @@
+C:\Users\rotsc\C_sharp\Seminar\retizzzzzzzzzzzzekkk\retizzzzzzzzzzzzekkk\bin\Debug\net9.0\retizzzzzzzzzzzzekkk.exe
+C:\Users\rotsc\C_sharp\Seminar\retizzzzzzzzzzzzekkk\retizzzzzzzzzzzzekkk\bin\Debug\net9.0\retizzzzzzzzzzzzekkk.deps.json
+C:\Users\rotsc\C_sharp\Seminar\retizzzzzzzzzzzzekkk\retizzzzzzzzzzzzekkk\bin\Debug\net9.0\retizzzzzzzzzzzzekkk.runtimeconfig.json
+C:\Users\rotsc\C_sharp\Seminar\retizzzzzzzzzzzzekkk\retizzzzzzzzzzzzekkk\bin\Debug\net9.0\retizzzzzzzzzzzzekkk.dll
+C:\Users\rotsc\C_sharp\Seminar\retizzzzzzzzzzzzekkk\retizzzzzzzzzzzzekkk\bin\Debug\net9.0\retizzzzzzzzzzzzekkk.pdb
+C:\Users\rotsc\C_sharp\Seminar\retizzzzzzzzzzzzekkk\retizzzzzzzzzzzzekkk\obj\Debug\net9.0\retizzzzzzzzzzzzekkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotsc\C_sharp\Seminar\retizzzzzzzzzzzzekkk\retizzzzzzzzzzzzekkk\obj\Debug\net9.0\retizzzzzzzzzzzzekkk.AssemblyInfoInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\retizzzzzzzzzzzzekkk\retizzzzzzzzzzzzekkk\obj\Debug\net9.0\retizzzzzzzzzzzzekkk.AssemblyInfo.cs
+C:\Users\rotsc\C_sharp\Seminar\retizzzzzzzzzzzzekkk\retizzzzzzzzzzzzekkk\obj\Debug\net9.0\retizzzzzzzzzzzzekkk.csproj.CoreCompileInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\retizzzzzzzzzzzzekkk\retizzzzzzzzzzzzekkk\obj\Debug\net9.0\retizzzzzzzzzzzzekkk.sourcelink.json
+C:\Users\rotsc\C_sharp\Seminar\retizzzzzzzzzzzzekkk\retizzzzzzzzzzzzekkk\obj\Debug\net9.0\retizzzzzzzzzzzzekkk.dll
+C:\Users\rotsc\C_sharp\Seminar\retizzzzzzzzzzzzekkk\retizzzzzzzzzzzzekkk\obj\Debug\net9.0\refint\retizzzzzzzzzzzzekkk.dll
+C:\Users\rotsc\C_sharp\Seminar\retizzzzzzzzzzzzekkk\retizzzzzzzzzzzzekkk\obj\Debug\net9.0\retizzzzzzzzzzzzekkk.pdb
+C:\Users\rotsc\C_sharp\Seminar\retizzzzzzzzzzzzekkk\retizzzzzzzzzzzzekkk\obj\Debug\net9.0\retizzzzzzzzzzzzekkk.genruntimeconfig.cache
+C:\Users\rotsc\C_sharp\Seminar\retizzzzzzzzzzzzekkk\retizzzzzzzzzzzzekkk\obj\Debug\net9.0\ref\retizzzzzzzzzzzzekkk.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rotsc\\C_sharp\\Seminar\\retizzzzzzzzzzzzekkk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F330AC-9854-4D61-A9B0-A25E9E2E14D7}|retizzzzzzzzzzzzekkk\\retizzzzzzzzzzzzekkk.csproj|c:\\users\\rotsc\\c_sharp\\seminar\\retizzzzzzzzzzzzekkk\\retizzzzzzzzzzzzekkk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F330AC-9854-4D61-A9B0-A25E9E2E14D7}|retizzzzzzzzzzzzekkk\\retizzzzzzzzzzzzekkk.csproj|solutionrelative:retizzzzzzzzzzzzekkk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rotsc\\C_sharp\\Seminar\\retizzzzzzzzzzzzekkk\\retizzzzzzzzzzzzekkk\\Program.cs",
+              "RelativeDocumentMoniker": "retizzzzzzzzzzzzekkk\\Program.cs",
+              "ToolTip": "C:\\Users\\rotsc\\C_sharp\\Seminar\\retizzzzzzzzzzzzekkk\\retizzzzzzzzzzzzekkk\\Program.cs",
+              "RelativeToolTip": "retizzzzzzzzzzzzekkk\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:21:25.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
