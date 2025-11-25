@@ -1,0 +1,15 @@
+C:\Users\rotsc\C_sharp\Seminar\tetik\tetik\bin\Debug\net9.0\tetik.exe
+C:\Users\rotsc\C_sharp\Seminar\tetik\tetik\bin\Debug\net9.0\tetik.deps.json
+C:\Users\rotsc\C_sharp\Seminar\tetik\tetik\bin\Debug\net9.0\tetik.runtimeconfig.json
+C:\Users\rotsc\C_sharp\Seminar\tetik\tetik\bin\Debug\net9.0\tetik.dll
+C:\Users\rotsc\C_sharp\Seminar\tetik\tetik\bin\Debug\net9.0\tetik.pdb
+C:\Users\rotsc\C_sharp\Seminar\tetik\tetik\obj\Debug\net9.0\tetik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotsc\C_sharp\Seminar\tetik\tetik\obj\Debug\net9.0\tetik.AssemblyInfoInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\tetik\tetik\obj\Debug\net9.0\tetik.AssemblyInfo.cs
+C:\Users\rotsc\C_sharp\Seminar\tetik\tetik\obj\Debug\net9.0\tetik.csproj.CoreCompileInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\tetik\tetik\obj\Debug\net9.0\tetik.sourcelink.json
+C:\Users\rotsc\C_sharp\Seminar\tetik\tetik\obj\Debug\net9.0\tetik.dll
+C:\Users\rotsc\C_sharp\Seminar\tetik\tetik\obj\Debug\net9.0\refint\tetik.dll
+C:\Users\rotsc\C_sharp\Seminar\tetik\tetik\obj\Debug\net9.0\tetik.pdb
+C:\Users\rotsc\C_sharp\Seminar\tetik\tetik\obj\Debug\net9.0\tetik.genruntimeconfig.cache
+C:\Users\rotsc\C_sharp\Seminar\tetik\tetik\obj\Debug\net9.0\ref\tetik.dll

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("retizzzzzzzzzzzzekkk")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("tetik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5320ae3e696923b975fe713b9dfa473144773cb")]
-[assembly: System.Reflection.AssemblyProductAttribute("retizzzzzzzzzzzzekkk")]
-[assembly: System.Reflection.AssemblyTitleAttribute("retizzzzzzzzzzzzekkk")]
+[assembly: System.Reflection.AssemblyProductAttribute("tetik")]
+[assembly: System.Reflection.AssemblyTitleAttribute("tetik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
