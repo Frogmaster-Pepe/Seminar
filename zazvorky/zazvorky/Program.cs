@@ -11,6 +11,7 @@
         {
                 Console.Write("Pro ukončení programu zadej - k; jinak zadej závorky, které chceš zkontrolovat: ");
                 string zavorky = Console.ReadLine();
+                //char, jsem použil protože string mi nefungoval a tak sem hledal nějakou alternativu a na W3schools sem ho našel
                 Stack<char> seznam = new Stack<char>();
                 var páry = new Dictionary<char, char>
                 {
