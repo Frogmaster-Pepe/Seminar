@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "zazvorky a možná i rozklad/1.0.0": {
+        "runtime": {
+          "zazvorky a možná i rozklad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zazvorky a možná i rozklad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

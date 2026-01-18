@@ -1,0 +1,15 @@
+C:\Users\rotsc\C_sharp\Seminar\zazvorky a možná i rozklad\zazvorky a možná i rozklad\bin\Debug\net9.0\zazvorky a možná i rozklad.exe
+C:\Users\rotsc\C_sharp\Seminar\zazvorky a možná i rozklad\zazvorky a možná i rozklad\bin\Debug\net9.0\zazvorky a možná i rozklad.deps.json
+C:\Users\rotsc\C_sharp\Seminar\zazvorky a možná i rozklad\zazvorky a možná i rozklad\bin\Debug\net9.0\zazvorky a možná i rozklad.runtimeconfig.json
+C:\Users\rotsc\C_sharp\Seminar\zazvorky a možná i rozklad\zazvorky a možná i rozklad\bin\Debug\net9.0\zazvorky a možná i rozklad.dll
+C:\Users\rotsc\C_sharp\Seminar\zazvorky a možná i rozklad\zazvorky a možná i rozklad\bin\Debug\net9.0\zazvorky a možná i rozklad.pdb
+C:\Users\rotsc\C_sharp\Seminar\zazvorky a možná i rozklad\zazvorky a možná i rozklad\obj\Debug\net9.0\zazvorky a možná i rozklad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotsc\C_sharp\Seminar\zazvorky a možná i rozklad\zazvorky a možná i rozklad\obj\Debug\net9.0\zazvorky a možná i rozklad.AssemblyInfoInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\zazvorky a možná i rozklad\zazvorky a možná i rozklad\obj\Debug\net9.0\zazvorky a možná i rozklad.AssemblyInfo.cs
+C:\Users\rotsc\C_sharp\Seminar\zazvorky a možná i rozklad\zazvorky a možná i rozklad\obj\Debug\net9.0\zazvorky a možná i rozklad.csproj.CoreCompileInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\zazvorky a možná i rozklad\zazvorky a možná i rozklad\obj\Debug\net9.0\zazvorky a možná i rozklad.sourcelink.json
+C:\Users\rotsc\C_sharp\Seminar\zazvorky a možná i rozklad\zazvorky a možná i rozklad\obj\Debug\net9.0\zazvorky a možná i rozklad.dll
+C:\Users\rotsc\C_sharp\Seminar\zazvorky a možná i rozklad\zazvorky a možná i rozklad\obj\Debug\net9.0\refint\zazvorky a možná i rozklad.dll
+C:\Users\rotsc\C_sharp\Seminar\zazvorky a možná i rozklad\zazvorky a možná i rozklad\obj\Debug\net9.0\zazvorky a možná i rozklad.pdb
+C:\Users\rotsc\C_sharp\Seminar\zazvorky a možná i rozklad\zazvorky a možná i rozklad\obj\Debug\net9.0\zazvorky a možná i rozklad.genruntimeconfig.cache
+C:\Users\rotsc\C_sharp\Seminar\zazvorky a možná i rozklad\zazvorky a možná i rozklad\obj\Debug\net9.0\ref\zazvorky a možná i rozklad.dll

@@ -1,0 +1,15 @@
+C:\Users\rotsc\C_sharp\Seminar\zazvorky\zazvorky\bin\Debug\net9.0\zazvorky.exe
+C:\Users\rotsc\C_sharp\Seminar\zazvorky\zazvorky\bin\Debug\net9.0\zazvorky.deps.json
+C:\Users\rotsc\C_sharp\Seminar\zazvorky\zazvorky\bin\Debug\net9.0\zazvorky.runtimeconfig.json
+C:\Users\rotsc\C_sharp\Seminar\zazvorky\zazvorky\bin\Debug\net9.0\zazvorky.dll
+C:\Users\rotsc\C_sharp\Seminar\zazvorky\zazvorky\bin\Debug\net9.0\zazvorky.pdb
+C:\Users\rotsc\C_sharp\Seminar\zazvorky\zazvorky\obj\Debug\net9.0\zazvorky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotsc\C_sharp\Seminar\zazvorky\zazvorky\obj\Debug\net9.0\zazvorky.AssemblyInfoInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\zazvorky\zazvorky\obj\Debug\net9.0\zazvorky.AssemblyInfo.cs
+C:\Users\rotsc\C_sharp\Seminar\zazvorky\zazvorky\obj\Debug\net9.0\zazvorky.csproj.CoreCompileInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\zazvorky\zazvorky\obj\Debug\net9.0\zazvorky.sourcelink.json
+C:\Users\rotsc\C_sharp\Seminar\zazvorky\zazvorky\obj\Debug\net9.0\zazvorky.dll
+C:\Users\rotsc\C_sharp\Seminar\zazvorky\zazvorky\obj\Debug\net9.0\refint\zazvorky.dll
+C:\Users\rotsc\C_sharp\Seminar\zazvorky\zazvorky\obj\Debug\net9.0\zazvorky.pdb
+C:\Users\rotsc\C_sharp\Seminar\zazvorky\zazvorky\obj\Debug\net9.0\zazvorky.genruntimeconfig.cache
+C:\Users\rotsc\C_sharp\Seminar\zazvorky\zazvorky\obj\Debug\net9.0\ref\zazvorky.dll

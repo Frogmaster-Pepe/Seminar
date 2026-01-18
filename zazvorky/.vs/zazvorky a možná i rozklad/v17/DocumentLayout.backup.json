@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rotsc\\C_sharp\\Seminar\\zazvorky a mo\u017En\u00E1 i rozklad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE29CDF0-0B96-424B-836D-3F245AB0F322}|zazvorky a mo\u017En\u00E1 i rozklad\\zazvorky a mo\u017En\u00E1 i rozklad.csproj|c:\\users\\rotsc\\c_sharp\\seminar\\zazvorky a mo\u017En\u00E1 i rozklad\\zazvorky a mo\u017En\u00E1 i rozklad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE29CDF0-0B96-424B-836D-3F245AB0F322}|zazvorky a mo\u017En\u00E1 i rozklad\\zazvorky a mo\u017En\u00E1 i rozklad.csproj|solutionrelative:zazvorky a mo\u017En\u00E1 i rozklad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rotsc\\C_sharp\\Seminar\\zazvorky a mo\u017En\u00E1 i rozklad\\zazvorky a mo\u017En\u00E1 i rozklad\\Program.cs",
+              "RelativeDocumentMoniker": "zazvorky a mo\u017En\u00E1 i rozklad\\Program.cs",
+              "ToolTip": "C:\\Users\\rotsc\\C_sharp\\Seminar\\zazvorky a mo\u017En\u00E1 i rozklad\\zazvorky a mo\u017En\u00E1 i rozklad\\Program.cs*",
+              "RelativeToolTip": "zazvorky a mo\u017En\u00E1 i rozklad\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T18:19:42.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
