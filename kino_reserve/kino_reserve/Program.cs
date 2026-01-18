@@ -152,7 +152,7 @@ namespace kino_reserve
                 }
                 else if (action.Contains("k"))
                 {
-                    Environment.Exit(0);
+                    break;
                 }
                 else
                 {
