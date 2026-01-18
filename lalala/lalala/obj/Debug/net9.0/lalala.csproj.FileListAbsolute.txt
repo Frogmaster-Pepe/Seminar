@@ -1,0 +1,15 @@
+C:\Users\rotsc\C_sharp\Seminar\lalala\lalala\bin\Debug\net9.0\lalala.exe
+C:\Users\rotsc\C_sharp\Seminar\lalala\lalala\bin\Debug\net9.0\lalala.deps.json
+C:\Users\rotsc\C_sharp\Seminar\lalala\lalala\bin\Debug\net9.0\lalala.runtimeconfig.json
+C:\Users\rotsc\C_sharp\Seminar\lalala\lalala\bin\Debug\net9.0\lalala.dll
+C:\Users\rotsc\C_sharp\Seminar\lalala\lalala\bin\Debug\net9.0\lalala.pdb
+C:\Users\rotsc\C_sharp\Seminar\lalala\lalala\obj\Debug\net9.0\lalala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotsc\C_sharp\Seminar\lalala\lalala\obj\Debug\net9.0\lalala.AssemblyInfoInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\lalala\lalala\obj\Debug\net9.0\lalala.AssemblyInfo.cs
+C:\Users\rotsc\C_sharp\Seminar\lalala\lalala\obj\Debug\net9.0\lalala.csproj.CoreCompileInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\lalala\lalala\obj\Debug\net9.0\lalala.sourcelink.json
+C:\Users\rotsc\C_sharp\Seminar\lalala\lalala\obj\Debug\net9.0\lalala.dll
+C:\Users\rotsc\C_sharp\Seminar\lalala\lalala\obj\Debug\net9.0\refint\lalala.dll
+C:\Users\rotsc\C_sharp\Seminar\lalala\lalala\obj\Debug\net9.0\lalala.pdb
+C:\Users\rotsc\C_sharp\Seminar\lalala\lalala\obj\Debug\net9.0\lalala.genruntimeconfig.cache
+C:\Users\rotsc\C_sharp\Seminar\lalala\lalala\obj\Debug\net9.0\ref\lalala.dll
