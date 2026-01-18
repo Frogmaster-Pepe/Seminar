@@ -1,0 +1,15 @@
+C:\Users\rotsc\C_sharp\Seminar\kino_reserve\kino_reserve\bin\Debug\net9.0\kino_reserve.exe
+C:\Users\rotsc\C_sharp\Seminar\kino_reserve\kino_reserve\bin\Debug\net9.0\kino_reserve.deps.json
+C:\Users\rotsc\C_sharp\Seminar\kino_reserve\kino_reserve\bin\Debug\net9.0\kino_reserve.runtimeconfig.json
+C:\Users\rotsc\C_sharp\Seminar\kino_reserve\kino_reserve\bin\Debug\net9.0\kino_reserve.dll
+C:\Users\rotsc\C_sharp\Seminar\kino_reserve\kino_reserve\bin\Debug\net9.0\kino_reserve.pdb
+C:\Users\rotsc\C_sharp\Seminar\kino_reserve\kino_reserve\obj\Debug\net9.0\kino_reserve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotsc\C_sharp\Seminar\kino_reserve\kino_reserve\obj\Debug\net9.0\kino_reserve.AssemblyInfoInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\kino_reserve\kino_reserve\obj\Debug\net9.0\kino_reserve.AssemblyInfo.cs
+C:\Users\rotsc\C_sharp\Seminar\kino_reserve\kino_reserve\obj\Debug\net9.0\kino_reserve.csproj.CoreCompileInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\kino_reserve\kino_reserve\obj\Debug\net9.0\kino_reserve.sourcelink.json
+C:\Users\rotsc\C_sharp\Seminar\kino_reserve\kino_reserve\obj\Debug\net9.0\kino_reserve.dll
+C:\Users\rotsc\C_sharp\Seminar\kino_reserve\kino_reserve\obj\Debug\net9.0\refint\kino_reserve.dll
+C:\Users\rotsc\C_sharp\Seminar\kino_reserve\kino_reserve\obj\Debug\net9.0\kino_reserve.pdb
+C:\Users\rotsc\C_sharp\Seminar\kino_reserve\kino_reserve\obj\Debug\net9.0\kino_reserve.genruntimeconfig.cache
+C:\Users\rotsc\C_sharp\Seminar\kino_reserve\kino_reserve\obj\Debug\net9.0\ref\kino_reserve.dll
