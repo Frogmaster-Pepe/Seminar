@@ -1,0 +1,15 @@
+C:\Users\rotsc\C_sharp\Seminar\AbecedniPoradi\AbecedniPoradi\bin\Debug\net9.0\AbecedniPoradi.exe
+C:\Users\rotsc\C_sharp\Seminar\AbecedniPoradi\AbecedniPoradi\bin\Debug\net9.0\AbecedniPoradi.deps.json
+C:\Users\rotsc\C_sharp\Seminar\AbecedniPoradi\AbecedniPoradi\bin\Debug\net9.0\AbecedniPoradi.runtimeconfig.json
+C:\Users\rotsc\C_sharp\Seminar\AbecedniPoradi\AbecedniPoradi\bin\Debug\net9.0\AbecedniPoradi.dll
+C:\Users\rotsc\C_sharp\Seminar\AbecedniPoradi\AbecedniPoradi\bin\Debug\net9.0\AbecedniPoradi.pdb
+C:\Users\rotsc\C_sharp\Seminar\AbecedniPoradi\AbecedniPoradi\obj\Debug\net9.0\AbecedniPoradi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotsc\C_sharp\Seminar\AbecedniPoradi\AbecedniPoradi\obj\Debug\net9.0\AbecedniPoradi.AssemblyInfoInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\AbecedniPoradi\AbecedniPoradi\obj\Debug\net9.0\AbecedniPoradi.AssemblyInfo.cs
+C:\Users\rotsc\C_sharp\Seminar\AbecedniPoradi\AbecedniPoradi\obj\Debug\net9.0\AbecedniPoradi.csproj.CoreCompileInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\AbecedniPoradi\AbecedniPoradi\obj\Debug\net9.0\AbecedniPoradi.sourcelink.json
+C:\Users\rotsc\C_sharp\Seminar\AbecedniPoradi\AbecedniPoradi\obj\Debug\net9.0\AbecedniPoradi.dll
+C:\Users\rotsc\C_sharp\Seminar\AbecedniPoradi\AbecedniPoradi\obj\Debug\net9.0\refint\AbecedniPoradi.dll
+C:\Users\rotsc\C_sharp\Seminar\AbecedniPoradi\AbecedniPoradi\obj\Debug\net9.0\AbecedniPoradi.pdb
+C:\Users\rotsc\C_sharp\Seminar\AbecedniPoradi\AbecedniPoradi\obj\Debug\net9.0\AbecedniPoradi.genruntimeconfig.cache
+C:\Users\rotsc\C_sharp\Seminar\AbecedniPoradi\AbecedniPoradi\obj\Debug\net9.0\ref\AbecedniPoradi.dll
