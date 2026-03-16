@@ -1,0 +1,15 @@
+C:\Users\rotsc\C_sharp\Seminar\BinarySearchTree\BinarySearchTree\bin\Debug\net9.0\BinarySearchTree.exe
+C:\Users\rotsc\C_sharp\Seminar\BinarySearchTree\BinarySearchTree\bin\Debug\net9.0\BinarySearchTree.deps.json
+C:\Users\rotsc\C_sharp\Seminar\BinarySearchTree\BinarySearchTree\bin\Debug\net9.0\BinarySearchTree.runtimeconfig.json
+C:\Users\rotsc\C_sharp\Seminar\BinarySearchTree\BinarySearchTree\bin\Debug\net9.0\BinarySearchTree.dll
+C:\Users\rotsc\C_sharp\Seminar\BinarySearchTree\BinarySearchTree\bin\Debug\net9.0\BinarySearchTree.pdb
+C:\Users\rotsc\C_sharp\Seminar\BinarySearchTree\BinarySearchTree\obj\Debug\net9.0\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotsc\C_sharp\Seminar\BinarySearchTree\BinarySearchTree\obj\Debug\net9.0\BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\BinarySearchTree\BinarySearchTree\obj\Debug\net9.0\BinarySearchTree.AssemblyInfo.cs
+C:\Users\rotsc\C_sharp\Seminar\BinarySearchTree\BinarySearchTree\obj\Debug\net9.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\BinarySearchTree\BinarySearchTree\obj\Debug\net9.0\BinarySearchTree.sourcelink.json
+C:\Users\rotsc\C_sharp\Seminar\BinarySearchTree\BinarySearchTree\obj\Debug\net9.0\BinarySearchTree.dll
+C:\Users\rotsc\C_sharp\Seminar\BinarySearchTree\BinarySearchTree\obj\Debug\net9.0\refint\BinarySearchTree.dll
+C:\Users\rotsc\C_sharp\Seminar\BinarySearchTree\BinarySearchTree\obj\Debug\net9.0\BinarySearchTree.pdb
+C:\Users\rotsc\C_sharp\Seminar\BinarySearchTree\BinarySearchTree\obj\Debug\net9.0\BinarySearchTree.genruntimeconfig.cache
+C:\Users\rotsc\C_sharp\Seminar\BinarySearchTree\BinarySearchTree\obj\Debug\net9.0\ref\BinarySearchTree.dll
