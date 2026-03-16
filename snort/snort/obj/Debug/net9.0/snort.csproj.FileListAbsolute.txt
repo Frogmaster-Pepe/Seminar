@@ -1,0 +1,15 @@
+C:\Users\rotsc\C_sharp\Seminar\snort\snort\obj\Debug\net9.0\snort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotsc\C_sharp\Seminar\snort\snort\obj\Debug\net9.0\snort.AssemblyInfoInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\snort\snort\obj\Debug\net9.0\snort.AssemblyInfo.cs
+C:\Users\rotsc\C_sharp\Seminar\snort\snort\obj\Debug\net9.0\snort.csproj.CoreCompileInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\snort\snort\obj\Debug\net9.0\snort.sourcelink.json
+C:\Users\rotsc\C_sharp\Seminar\snort\snort\bin\Debug\net9.0\snort.exe
+C:\Users\rotsc\C_sharp\Seminar\snort\snort\bin\Debug\net9.0\snort.deps.json
+C:\Users\rotsc\C_sharp\Seminar\snort\snort\bin\Debug\net9.0\snort.runtimeconfig.json
+C:\Users\rotsc\C_sharp\Seminar\snort\snort\bin\Debug\net9.0\snort.dll
+C:\Users\rotsc\C_sharp\Seminar\snort\snort\bin\Debug\net9.0\snort.pdb
+C:\Users\rotsc\C_sharp\Seminar\snort\snort\obj\Debug\net9.0\snort.dll
+C:\Users\rotsc\C_sharp\Seminar\snort\snort\obj\Debug\net9.0\refint\snort.dll
+C:\Users\rotsc\C_sharp\Seminar\snort\snort\obj\Debug\net9.0\snort.pdb
+C:\Users\rotsc\C_sharp\Seminar\snort\snort\obj\Debug\net9.0\snort.genruntimeconfig.cache
+C:\Users\rotsc\C_sharp\Seminar\snort\snort\obj\Debug\net9.0\ref\snort.dll
