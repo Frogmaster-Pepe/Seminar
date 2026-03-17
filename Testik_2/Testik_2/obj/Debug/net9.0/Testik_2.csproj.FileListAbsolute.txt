@@ -1,0 +1,15 @@
+C:\Users\rotsc\C_sharp\Seminar\Testik_2\Testik_2\bin\Debug\net9.0\Testik_2.exe
+C:\Users\rotsc\C_sharp\Seminar\Testik_2\Testik_2\bin\Debug\net9.0\Testik_2.deps.json
+C:\Users\rotsc\C_sharp\Seminar\Testik_2\Testik_2\bin\Debug\net9.0\Testik_2.runtimeconfig.json
+C:\Users\rotsc\C_sharp\Seminar\Testik_2\Testik_2\bin\Debug\net9.0\Testik_2.dll
+C:\Users\rotsc\C_sharp\Seminar\Testik_2\Testik_2\bin\Debug\net9.0\Testik_2.pdb
+C:\Users\rotsc\C_sharp\Seminar\Testik_2\Testik_2\obj\Debug\net9.0\Testik_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotsc\C_sharp\Seminar\Testik_2\Testik_2\obj\Debug\net9.0\Testik_2.AssemblyInfoInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\Testik_2\Testik_2\obj\Debug\net9.0\Testik_2.AssemblyInfo.cs
+C:\Users\rotsc\C_sharp\Seminar\Testik_2\Testik_2\obj\Debug\net9.0\Testik_2.csproj.CoreCompileInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\Testik_2\Testik_2\obj\Debug\net9.0\Testik_2.sourcelink.json
+C:\Users\rotsc\C_sharp\Seminar\Testik_2\Testik_2\obj\Debug\net9.0\Testik_2.dll
+C:\Users\rotsc\C_sharp\Seminar\Testik_2\Testik_2\obj\Debug\net9.0\refint\Testik_2.dll
+C:\Users\rotsc\C_sharp\Seminar\Testik_2\Testik_2\obj\Debug\net9.0\Testik_2.pdb
+C:\Users\rotsc\C_sharp\Seminar\Testik_2\Testik_2\obj\Debug\net9.0\Testik_2.genruntimeconfig.cache
+C:\Users\rotsc\C_sharp\Seminar\Testik_2\Testik_2\obj\Debug\net9.0\ref\Testik_2.dll
