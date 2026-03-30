@@ -1,0 +1,15 @@
+C:\Users\rotsc\C_sharp\Seminar\nesquicksnort\nesquicksnort\bin\Debug\net9.0\nesquicksnort.exe
+C:\Users\rotsc\C_sharp\Seminar\nesquicksnort\nesquicksnort\bin\Debug\net9.0\nesquicksnort.deps.json
+C:\Users\rotsc\C_sharp\Seminar\nesquicksnort\nesquicksnort\bin\Debug\net9.0\nesquicksnort.runtimeconfig.json
+C:\Users\rotsc\C_sharp\Seminar\nesquicksnort\nesquicksnort\bin\Debug\net9.0\nesquicksnort.dll
+C:\Users\rotsc\C_sharp\Seminar\nesquicksnort\nesquicksnort\bin\Debug\net9.0\nesquicksnort.pdb
+C:\Users\rotsc\C_sharp\Seminar\nesquicksnort\nesquicksnort\obj\Debug\net9.0\nesquicksnort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotsc\C_sharp\Seminar\nesquicksnort\nesquicksnort\obj\Debug\net9.0\nesquicksnort.AssemblyInfoInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\nesquicksnort\nesquicksnort\obj\Debug\net9.0\nesquicksnort.AssemblyInfo.cs
+C:\Users\rotsc\C_sharp\Seminar\nesquicksnort\nesquicksnort\obj\Debug\net9.0\nesquicksnort.csproj.CoreCompileInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\nesquicksnort\nesquicksnort\obj\Debug\net9.0\nesquicksnort.sourcelink.json
+C:\Users\rotsc\C_sharp\Seminar\nesquicksnort\nesquicksnort\obj\Debug\net9.0\nesquicksnort.dll
+C:\Users\rotsc\C_sharp\Seminar\nesquicksnort\nesquicksnort\obj\Debug\net9.0\refint\nesquicksnort.dll
+C:\Users\rotsc\C_sharp\Seminar\nesquicksnort\nesquicksnort\obj\Debug\net9.0\nesquicksnort.pdb
+C:\Users\rotsc\C_sharp\Seminar\nesquicksnort\nesquicksnort\obj\Debug\net9.0\nesquicksnort.genruntimeconfig.cache
+C:\Users\rotsc\C_sharp\Seminar\nesquicksnort\nesquicksnort\obj\Debug\net9.0\ref\nesquicksnort.dll
