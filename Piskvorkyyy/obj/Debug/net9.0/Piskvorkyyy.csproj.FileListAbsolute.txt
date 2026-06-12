@@ -1,0 +1,15 @@
+C:\Users\rotsc\C_sharp\Seminar\Piskvorkyyy\bin\Debug\net9.0\Piskvorkyyy.exe
+C:\Users\rotsc\C_sharp\Seminar\Piskvorkyyy\bin\Debug\net9.0\Piskvorkyyy.deps.json
+C:\Users\rotsc\C_sharp\Seminar\Piskvorkyyy\bin\Debug\net9.0\Piskvorkyyy.runtimeconfig.json
+C:\Users\rotsc\C_sharp\Seminar\Piskvorkyyy\bin\Debug\net9.0\Piskvorkyyy.dll
+C:\Users\rotsc\C_sharp\Seminar\Piskvorkyyy\bin\Debug\net9.0\Piskvorkyyy.pdb
+C:\Users\rotsc\C_sharp\Seminar\Piskvorkyyy\obj\Debug\net9.0\Piskvorkyyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotsc\C_sharp\Seminar\Piskvorkyyy\obj\Debug\net9.0\Piskvorkyyy.AssemblyInfoInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\Piskvorkyyy\obj\Debug\net9.0\Piskvorkyyy.AssemblyInfo.cs
+C:\Users\rotsc\C_sharp\Seminar\Piskvorkyyy\obj\Debug\net9.0\Piskvorkyyy.csproj.CoreCompileInputs.cache
+C:\Users\rotsc\C_sharp\Seminar\Piskvorkyyy\obj\Debug\net9.0\Piskvorkyyy.sourcelink.json
+C:\Users\rotsc\C_sharp\Seminar\Piskvorkyyy\obj\Debug\net9.0\Piskvorkyyy.dll
+C:\Users\rotsc\C_sharp\Seminar\Piskvorkyyy\obj\Debug\net9.0\refint\Piskvorkyyy.dll
+C:\Users\rotsc\C_sharp\Seminar\Piskvorkyyy\obj\Debug\net9.0\Piskvorkyyy.pdb
+C:\Users\rotsc\C_sharp\Seminar\Piskvorkyyy\obj\Debug\net9.0\Piskvorkyyy.genruntimeconfig.cache
+C:\Users\rotsc\C_sharp\Seminar\Piskvorkyyy\obj\Debug\net9.0\ref\Piskvorkyyy.dll
